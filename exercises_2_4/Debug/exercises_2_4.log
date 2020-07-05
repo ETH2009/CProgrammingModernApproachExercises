@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Learning\c\Programming\CProgrammingModernApproachExercises\exercises_2_4\main.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  exercises_2_4.vcxproj -> D:\Learning\c\Programming\CProgrammingModernApproachExercises\exercises_2_4\Debug\exercises_2_4.exe

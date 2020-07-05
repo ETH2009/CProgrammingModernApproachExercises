@@ -1,0 +1,6 @@
+D:\Learning\c\exercises_2_1\Debug\exercises_2_1.exe
+D:\Learning\c\exercises_2_1\Debug\exercises_2_1.pdb
+D:\Learning\c\Programming\exercises_2_1\Debug\exercises_2_1.exe
+D:\Learning\c\Programming\exercises_2_1\Debug\exercises_2_1.pdb
+D:\Learning\c\Programming\CProgrammingModernApproachExercises\exercises_2_1\Debug\exercises_2_1.exe
+D:\Learning\c\Programming\CProgrammingModernApproachExercises\exercises_2_1\Debug\exercises_2_1.pdb
