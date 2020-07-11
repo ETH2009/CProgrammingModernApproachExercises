@@ -1,0 +1,2 @@
+D:\Learning\c\Programming\CProgrammingModernApproachExercises\Chapter-3\exercises_3_4\Debug\exercises_3_4.exe
+D:\Learning\c\Programming\CProgrammingModernApproachExercises\Chapter-3\exercises_3_4\Debug\exercises_3_4.pdb
