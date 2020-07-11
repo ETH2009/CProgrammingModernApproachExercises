@@ -2,3 +2,5 @@ D:\Learning\c\Programming\exercises_2_6\Debug\exercises_2_6.exe
 D:\Learning\c\Programming\exercises_2_6\Debug\exercises_2_6.pdb
 D:\Learning\c\Programming\CProgrammingModernApproachExercises\exercises_2_6\Debug\exercises_2_6.exe
 D:\Learning\c\Programming\CProgrammingModernApproachExercises\exercises_2_6\Debug\exercises_2_6.pdb
+D:\Learning\c\Programming\CProgrammingModernApproachExercises\Chapter-2\exercises_2_6\Debug\exercises_2_6.exe
+D:\Learning\c\Programming\CProgrammingModernApproachExercises\Chapter-2\exercises_2_6\Debug\exercises_2_6.pdb

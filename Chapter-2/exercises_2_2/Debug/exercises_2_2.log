@@ -1,3 +1,3 @@
 ﻿  main.c
-D:\Learning\c\Programming\CProgrammingModernApproachExercises\exercises_2_2\main.c(14,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  exercises_2_2.vcxproj -> D:\Learning\c\Programming\CProgrammingModernApproachExercises\exercises_2_2\Debug\exercises_2_2.exe
+D:\Learning\c\Programming\CProgrammingModernApproachExercises\Chapter-2\exercises_2_2\main.c(14,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  exercises_2_2.vcxproj -> D:\Learning\c\Programming\CProgrammingModernApproachExercises\Chapter-2\exercises_2_2\Debug\exercises_2_2.exe

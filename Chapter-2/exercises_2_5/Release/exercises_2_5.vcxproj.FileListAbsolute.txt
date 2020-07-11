@@ -1,3 +1,4 @@
 D:\Learning\c\exercises_2_5\Release\exercises_2_5.exe
 D:\Learning\c\Programming\exercises_2_5\Release\exercises_2_5.exe
 D:\Learning\c\Programming\CProgrammingModernApproachExercises\exercises_2_5\Release\exercises_2_5.exe
+D:\Learning\c\Programming\CProgrammingModernApproachExercises\Chapter-2\exercises_2_5\Release\exercises_2_5.exe
